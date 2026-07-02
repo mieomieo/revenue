@@ -1,0 +1,10 @@
+**/*.md
+**/*.js
+**/*.json
+!appsscript.json
+!.clasp.json
+.git
+.gitignore
+Config.js
+Main.js
+README.md

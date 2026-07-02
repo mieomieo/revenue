@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+package-lock.json
+
+# CLASP
+.clasp.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Legacy files (v1.0)
+Config.js
+Main.js
+README.md
